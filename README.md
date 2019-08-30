@@ -90,6 +90,8 @@ para tus pruebas unitarias.
 Para comenzar este proyecto tendrás que hacer un _fork_ y _clonar_ este
 repositorio.
 
+hola sofia
+
 Antes de comenzar a codear, es necesario crear un plan de acción. Esto debería
 quedar detallado en el `README.md` de tu repo y en una serie de _issues_
 y _milestones_ para priorizar y organizar el trabajo, y para poder hacer
@@ -211,7 +213,7 @@ $ md-links ./some/example.md --validate
 ./some/example.md https://otra-cosa.net/algun-doc.html fail 404 algún doc
 ./some/example.md http://google.com/ ok 301 Google
 ```
-
+hola sofia
 Vemos que el _output_ en este caso incluye la palabra `ok` o `fail` después de
 la URL, así como el status de la respuesta recibida a la petición HTTP a dicha
 URL.
@@ -248,7 +250,7 @@ para usarlo programáticamente.
 Las secciones llamadas _Hacker Edition_ son **opcionales**. Si **terminaste**
 con todo lo anterior y te queda tiempo, intenta completarlas. Así podrás
 profundizar y/o ejercitar más sobre los objetivos de aprendizaje del proyecto.
-
+hola sofia
 * Puedes agregar la propiedad `line` a cada objeto `link` indicando en qué línea
   del archivo se encontró el link.
 * Puedes agregar más estadísticas.
